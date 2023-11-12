@@ -37,4 +37,4 @@ Goodbye!
 ```
 
 ## License
-MIT 2023, Krisztina-Ronkainen Lakner
+[MIT](https://github.com/krisztipely/bunnyfacts/blob/master/LICENSE) 2023, Krisztina-Ronkainen Lakner
